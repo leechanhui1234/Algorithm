@@ -11,3 +11,4 @@
 |1106번|[호텔](https://www.acmicpc.net/problem/1106)|
 |2629번|[양팔 저울](https://www.acmicpc.net/problem/2629)|
 |3067번|[Coins](https://www.acmicpc.net/problem/3067)|
+|17845번|[수강 과목](https://www.acmicpc.net/problem/17845)|
