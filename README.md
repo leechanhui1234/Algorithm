@@ -1,1 +1,3 @@
-# knapsack
+# Algorithm Study
+
+## KnapSack
