@@ -1,3 +1,3 @@
-<span style="background-color:blue"># Algorithm Study</span>
+<span style="color:blue"># Algorithm Study</span>
 
 ## KnapSack
