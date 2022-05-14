@@ -12,3 +12,11 @@
 |2629번|[양팔 저울](https://www.acmicpc.net/problem/2629)|
 |3067번|[Coins](https://www.acmicpc.net/problem/3067)|
 |17845번|[수강 과목](https://www.acmicpc.net/problem/17845)|
+|16493번|[최대 페이지 수](https://www.acmicpc.net/problem/16493)|
+
+## **2. Segment Tree**
+
+|제목|문제 링크|
+|------|---|
+|2042번|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|
+|6549번|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|
