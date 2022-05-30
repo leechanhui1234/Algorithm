@@ -20,3 +20,9 @@
 |------|---|
 |2042번|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|
 |6549번|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|
+
+## **3. bfs**
+
+|제목|문제 링크|
+|------|---|
+|16234번|[인구 이동](https://www.acmicpc.net/problem/16234)|
