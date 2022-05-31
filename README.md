@@ -26,3 +26,4 @@
 |제목|문제 링크|
 |------|---|
 |16234번|[인구 이동](https://www.acmicpc.net/problem/16234)|
+|2573번|[빙산](https://www.acmicpc.net/problem/2573)|
