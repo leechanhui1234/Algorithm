@@ -30,3 +30,4 @@
 |2636번|[치즈](https://www.acmicpc.net/problem/2636)|
 |2638번|[치즈](https://www.acmicpc.net/problem/2638)|
 |16928번|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|
+|2251번|[물통](https://www.acmicpc.net/problem/2251)|
