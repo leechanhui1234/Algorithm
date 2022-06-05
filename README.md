@@ -32,3 +32,4 @@
 |16928번|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|
 |2251번|[물통](https://www.acmicpc.net/problem/2251)|
 |6593번|[상범 빌딩](https://www.acmicpc.net/problem/6593)|
+|2668번|[숫자고르기](https://www.acmicpc.net/problem/2668)|
