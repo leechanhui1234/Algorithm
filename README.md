@@ -33,3 +33,9 @@
 |2251번|[물통](https://www.acmicpc.net/problem/2251)|
 |6593번|[상범 빌딩](https://www.acmicpc.net/problem/6593)|
 |2668번|[숫자고르기](https://www.acmicpc.net/problem/2668)|
+
+## **4. dynamic programming**
+
+|제목|문제 링크|
+|------|---|
+|25289번|[가장 긴 등차 부분 수열](https://www.acmicpc.net/problem/25289)|
