@@ -1,4 +1,4 @@
-# Algorithm Study(Backjoon)
+# Algorithm Study(Baekjoon)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yepp0112)](https://solved.ac/yepp0112)<br/>
 
@@ -40,3 +40,4 @@
 |------|---|
 |25289번|[가장 긴 등차 부분 수열](https://www.acmicpc.net/problem/25289)|
 |2670번|[연속부분최대곱](https://www.acmicpc.net/problem/2670)|
+|23815번|[똥게임](https://www.acmicpc.net/problem/23815)|
