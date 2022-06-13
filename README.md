@@ -39,3 +39,4 @@
 |제목|문제 링크|
 |------|---|
 |25289번|[가장 긴 등차 부분 수열](https://www.acmicpc.net/problem/25289)|
+|2670번|[연속부분최대곱](https://www.acmicpc.net/problem/2670)|
