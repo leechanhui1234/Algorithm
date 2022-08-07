@@ -50,3 +50,9 @@
 |10986번|[나머지 합](https://www.acmicpc.net/problem/10986)|
 |17425번|[약수의 합](https://www.acmicpc.net/problem/17425)|
 
+## **6. implementation**
+
+|제목|문제 링크|
+|------|---|
+|22993번|[서든어택3](https://www.acmicpc.net/problem/22993)|
+
