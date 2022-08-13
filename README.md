@@ -55,4 +55,5 @@
 |제목|문제 링크|
 |------|---|
 |22993번|[서든어택3](https://www.acmicpc.net/problem/22993)|
+|14891번|[톱니바퀴](https://www.acmicpc.net/problem/14891)|
 
