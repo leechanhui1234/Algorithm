@@ -49,6 +49,7 @@
 |2616번|[소형기관차](https://www.acmicpc.net/problem/2616)|
 |10986번|[나머지 합](https://www.acmicpc.net/problem/10986)|
 |17425번|[약수의 합](https://www.acmicpc.net/problem/17425)|
+|24499번|[blobyum](https://www.acmicpc.net/problem/24499)|
 
 ## **6. implementation**
 
