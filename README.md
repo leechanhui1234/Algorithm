@@ -57,4 +57,5 @@
 |------|---|
 |22993번|[서든어택3](https://www.acmicpc.net/problem/22993)|
 |14891번|[톱니바퀴](https://www.acmicpc.net/problem/14891)|
+|1244번|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
 
