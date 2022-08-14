@@ -51,10 +51,11 @@
 |17425번|[약수의 합](https://www.acmicpc.net/problem/17425)|
 |24499번|[blobyum](https://www.acmicpc.net/problem/24499)|
 
-## **6. implementation**
+## **6. implementation or backtracking**
 
 |제목|문제 링크|
 |------|---|
+|1038번|[감소하는 수](https://www.acmicpc.net/problem/1038)|
 |1244번|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|
 |14719번|[빗물](https://www.acmicpc.net/problem/14719)|
 |14891번|[톱니바퀴](https://www.acmicpc.net/problem/14891)|
